@@ -1,13 +1,14 @@
-# Profile Card - Frontend MEntor - Devquest
+# Profile Card - Frontend Mentor - Devquest
 
  Uma ALTERNATIVA ao desafio do frontend mentor, onde o principal desafio é criar um cartão que contenha as informações de perfil. Para serem aprimoradas as habilidades de posicionamento de elementos usando FLEXBOX. 
 
  ## Imagens
 
 DESKTOP:
-![Desktop](desktop.jpg)
+![Desktop](https://i.imgur.com/rCB92mD.png)
 
 SMARTPHONE:
+
 ![Smartphone](https://i.imgur.com/nPWZtdq.png)
 
 ## Tecnologias
